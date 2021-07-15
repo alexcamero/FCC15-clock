@@ -1,7 +1,7 @@
 # FCC15-clock
 FreeCodeCamp Assignment 15
 
-[Markdown Editor](https://www.alex-cameron.com/FCC15/)
+[Clock](https://www.alex-cameron.com/FCC15/)
 
 [Front End Libraries](https://www.freecodecamp.org/certification/alexcamero/front-end-libraries) from [FreeCodeCamp](https://www.freecodecamp.org/)
 
